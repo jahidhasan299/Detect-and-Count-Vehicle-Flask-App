@@ -8,7 +8,7 @@
 6. Step 6: Run application by command; python app.py You will get url copy it and paste in browser. 
 7. Step 7: You have sample_data folder where you can get images to test.
 
-# THE STEPS ARE TAKEN TO COMPLETE THIS PROBLEM
+# THE STEPS ARE TAKEN TO COMPLETE THIS PROBLEM:
 1. Loading the image from the internet.
 2. Resizing the image and convert it into a numpy array.
 3. Converting image into greyscale.
@@ -20,10 +20,14 @@
 9. We will aslo perform these operations on a video.
 10. Save the video with object detection.
 
-# Vehicle Detect-Count
+# Vehicle Detect-Count:
 1. In this project, we will be working on detecting and counting vehicles in a given image or a video. We will be using OpenCV for image processing and Haar cascade which is used for object detection. We can also create our own customized haar cascade classifier.
 2. As haar cascase is used for object detection we have a very vast scope for this project. It can be used for any type of object detection. we can also create our own custom haar cascade for specific objects.
 3. With this kind of indentification and localization, object detection can be used to count objects in a scene and determine and track their precise locations, all while accurately labeling them.
 
 # Scope:
 As haar cascade is used for object detection we have a very vast scope for this project. It can be used for any type of object detection. We can also create our own custom haar cascade for specific object.
+
+# Results:
+<img width="1429" alt="Screen Shot 2022-06-01 at 8 45 35 AM" src="https://user-images.githubusercontent.com/49092540/171306249-f4f30641-efe6-4c24-aad9-2f9334763bce.png">
+<img width="1429" alt="Screen Shot 2022-06-01 at 8 45 49 AM" src="https://user-images.githubusercontent.com/49092540/171306265-265f81df-dc18-46d6-a126-4a67218faecf.png">
